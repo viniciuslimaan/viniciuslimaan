@@ -1,4 +1,4 @@
-<h1>Hello, guys! I'm Vinícius Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Hi, I'm Vinícius Lima!</h1>
 <p>My name is <b>Vinícius Lima</b> and I'm Full-Stack Developer Jr and Designer.
 <br>🚀 19 years old.
 <br>🏠 I'm from Lins - São Paulo.
