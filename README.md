@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vinícius Lima!</h1>
 <p>My name is <b>Vinícius Lima</b> and I'm Full-Stack Developer Jr and Designer.
-<br>🚀 19 years old.
+<br>🚀 20 years old.
 <br>🏠 I'm from Lins - São Paulo.
 <br>🎓 Graduated in Computer Technician at Etec Lins.
 <br>👨‍💻 Studying Systems for Internet at Fatec Lins - Professor Antônio Seabra.</p>
