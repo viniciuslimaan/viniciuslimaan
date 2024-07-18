@@ -48,6 +48,8 @@
     <img width="5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
     <img width="5" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+    <img width="5" />
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
     <img width="5" />
     <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
@@ -55,6 +57,8 @@
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
     <img width="5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img width="5" />
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </p>
 
 <h2>Tools</h2>
